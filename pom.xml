@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.chandu</groupId>
-	<artifactId>login-page</artifactId>
+	<artifactId>chandu</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>chandubikshu</name>
 	<description>Demo project for Spring Boot</description>
